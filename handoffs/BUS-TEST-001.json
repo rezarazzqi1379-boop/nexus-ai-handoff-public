@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "record_type": "coordination_status",
+  "task_id": "BUS-TEST-001",
+  "project_id": "NEXUS_CORE",
+  "lane_id": "coordination",
+  "state": "READY_FOR_READ_TEST",
+  "branch": "none",
+  "head_sha": null,
+  "tests": [],
+  "risk_class": "LOW",
+  "protected_action_required": false,
+  "contains_secrets": false,
+  "contains_private_business_data": false,
+  "contains_executable_instruction": false,
+  "message": "Connectivity test only. No action requested."
+}
